@@ -1,0 +1,4 @@
+<plugin>
+    <name>Scala.nub</name>
+    <classname>scalanub.ScalaNubPlugin</classname>
+</plugin>
